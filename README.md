@@ -1,5 +1,9 @@
 # Mamba Navigator
 
+## Archived
+
+**This project is archived. Development is now happening in https://github.com/mamba-org/jupyter_conda**
+
 ## Try it online
 
 Open Mamba Navigator:
